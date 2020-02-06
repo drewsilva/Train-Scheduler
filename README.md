@@ -1,7 +1,7 @@
 # Train-Scheduler
 A train schedule application that incorporates Firebase to host arrival and departure data.
 
-UT Austin Coding Boot Camp - Homework #7
+UT Austin Coding Boot Camp
 
 Instructions:
 
